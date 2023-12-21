@@ -21,3 +21,9 @@ In the copper industry, dealing with complex sales and pricing data can be chall
 * Skewness and Feature scaling
 * Outliers Handling
 * Wrong date handling
+
+### Exploratory Data Analysis (EDA) and Feature Engineering
+
+* Skewness Visualization
+* Outlier Visualization
+* Feature improvement - Heatmap

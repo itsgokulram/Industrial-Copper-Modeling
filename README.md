@@ -12,3 +12,12 @@ In the copper industry, dealing with complex sales and pricing data can be chall
 * Seaborn
 * Pickle
 * Streamlit
+
+### Data Preprocessing
+
+* Data Understanding
+* Handling Null values
+* Encoding and Data Type Conversion
+* Skewness and Feature scaling
+* Outliers Handling
+* Wrong date handling

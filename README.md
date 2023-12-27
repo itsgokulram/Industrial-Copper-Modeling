@@ -31,8 +31,14 @@ In the copper industry, dealing with complex sales and pricing data can be chall
 * Success and Failure Classification
 * Handling Data Imbalance
 * Algorithm Assessment
+* Algorith Selection
 * Hyperparameter Tuning with GridSearchCV and Cross-Validation
 * Model Accuracy and Metrics
 * Model Saving
 
 ### Regression Model building
+* Algorithm Assessment
+* Algorith Selection
+* Hyperparameter Tuning with GridSearchCV and Cross-Validation
+* Model Accuracy and Metrics
+* Model Saving

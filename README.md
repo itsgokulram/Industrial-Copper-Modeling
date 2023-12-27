@@ -27,3 +27,7 @@ In the copper industry, dealing with complex sales and pricing data can be chall
 * Skewness Visualization
 * Outlier Visualization
 * Feature improvement - Heatmap
+### Classification Model building
+
+
+### Regression Model building

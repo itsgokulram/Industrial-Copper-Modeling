@@ -28,6 +28,11 @@ In the copper industry, dealing with complex sales and pricing data can be chall
 * Outlier Visualization
 * Feature improvement - Heatmap
 ### Classification Model building
-
+* Success and Failure Classification
+* Handling Data Imbalance
+* Algorithm Assessment
+* Hyperparameter Tuning with GridSearchCV and Cross-Validation
+* Model Accuracy and Metrics
+* Model Saving
 
 ### Regression Model building
